@@ -1,0 +1,23 @@
+{
+  "name": "the-boring-stuff",
+  "version": "1.0.0",
+  "description": "JavaScript utilities for getting stuff done.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pmcghen/the-boring-stuff.git"
+  },
+  "keywords": [
+    "javascript",
+    "utilities"
+  ],
+  "author": "Pat McGhen <patrickmcghen@gmail.com> (https://github.com/pmcghen)",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/pmcghen/the-boring-stuff/issues"
+  },
+  "homepage": "https://github.com/pmcghen/the-boring-stuff#readme"
+}
